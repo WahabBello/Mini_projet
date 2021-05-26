@@ -5,11 +5,11 @@ package controller;
 
 //import java.util.ArrayList;
 
-import modele.Auto;
-import modele.Camion;
-import modele.Moto;
-import modele.Vehicule;
-import vue.Interface;
+// import modele.Auto;
+// import modele.Camion;
+// import modele.Moto;
+// import modele.Vehicule;
+// import vue.Interface;
 
 // Controller principale du jeu
 public class Main {
